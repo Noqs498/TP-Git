@@ -14,19 +14,19 @@ Il existe de nombreux IDE. Certains permettent de développer pour un système d
 Il en existe plusieurs : ( voici quelque exemple )
 
 
-## **[- Scilab](https://www.scilab.org/)** :
+## **[- Scilab](https://www.scilab.org/ "Direction vers site Scilab")** :
  Scilab est un logiciel open source gratuit de calcul numérique qui fournit un puissant environnement de développement pour les applications scientifiques et l'ingénierie. Scilab contient des centaines de fonctions mathématiques, des fonctions graphiques 2D et 3D et un environnement de programmation. Grâce à ses capacités d'interconnexion avec des technologies et des applications tierces, le logiciel Scilab peut aussi jouer le rôle de plateforme unique permettant de rassembler des codes écrits dans différents langages de programmation dans un langage unique et unifié, de favoriser leur distribution, leur sauvegarde et leur utilisation. Scilab est distribué sous la licence open source CeCILL (compatible GPL), et est téléchargeable gratuitement. Il est disponible sous GNU/Linux, Mac OS X et Windows XP/Vista/7/8 (voir les configurations système).
 
-## **[- Visual Studio](https://docs.microsoft.com/fr-fr/sql/sql-server/?redirectedfrom=MSDN&view=sql-server-ver15)** :
+## **[- Visual Studio](https://docs.microsoft.com/fr-fr/sql/sql-server/?redirectedfrom=MSDN&view=sql-server-ver15 "Direction vers site Visual Studio")** :
  Visual Studio permet le développement d'applications Win32 en C et C++, ainsi que le développement d'applications .NET en C# et VB.NET.
 Cette nouvelle version de Visual Studio est dédié à la programmation d'applications web et Windows sur les frameworks 2.0, 3.0 et 3.5 ! Coté nouveautés: LINQ, le framework objet/relationnel Entities, un concepteur visuel pour WPF et DLINQ, un editeur XAML et un support intégré pour SQL Server Compact Edition, l'Intellisense JavaScript et bien d'autres.
 
 
-## **[- Visual Studio Express Edition](https://visualstudio.microsoft.com/fr/vs/express/)** : 
+## **[- Visual Studio Express Edition](https://visualstudio.microsoft.com/fr/vs/express/ "Direction vers site Visual Studio Express")** : 
 Visual Studio permet le développement d'applications Win32 en C et C++, ainsi que le développement d'applications .NET en C# et VB.NET.
 
 
-## **[- Eclipse](https://www.eclipse.org/)** :
+## **[- Eclipse](https://www.eclipse.org/ "Direction vers site Eclipse")** :
  Eclipse permet le développement d'applications Java principalement, mais également d'autres langages grâce à l'utilisation de plugins.
 
 Eclipse est une plateforme de developpement écrite en Java, fruit du travail d'un consortium de grandes entreprises (IBM, Borland, Rational Rose, HP...). Il en resulte un IDE performant et openSource qui a su trouver sa place comme l'un des IDs Java les plus populaires. Elle intègre pour cela la prise en charge des outils comme Ant, SVN, JUnit...
@@ -40,7 +40,7 @@ Eclipse est distribué sous la forme de bundles, qui contiennent un certain nomb
 Enfin, Eclipse n'est pas limité au développement Java mais supporte aussi d'autres langages comme PHP (via PDT) et C/C++ (via CDT), etc.
 
 
-## **[- NetBeans](https://netbeans.org/)** :
+## **[- NetBeans](https://netbeans.org/ "Direction vers site Netbeans")** :
  NetBeans permet le développement d'applications Java, PHP, C, C++ et Ruby.
 
 NetBeans, créé à l'initiative de Sun Microsystems (Noyau de Forte4J/SunOne), présente toutes les caractéristiques indispensables à un EDI de qualité, que ce soit pour développer en Java, Ruby, C/C++ ou même PHP.
@@ -54,36 +54,36 @@ A coté de la version complète de l'EDI NetBeans, vous avez différentes décli
 NetBeans rajoute, à coté du support pour CVS et SubVersion, un support pour ClearCase, mais aussi pour Mercurial. Il vous permet également de déployer vos applications Web, non seulement vers Tomcat et Glassfish qui sont livrés avec le "Pack Web", mais aussi vers JBoss, WebSphere 6.1, WebLogic 9.
 
 
-## **[- Delphi](https://www.embarcadero.com/products/delphi)** :
+## **[- Delphi](https://www.embarcadero.com/products/delphi "Direction vers site Delphi")** :
  Delphi est un EDI RAD utilisant le langage Pascal Objet pour réaliser indifféremment des applications Windows Win32 et .NET.
 
 
-## **[- Code::Blocks](http://www.codeblocks.org/)** : 
+## **[- Code::Blocks](http://www.codeblocks.org/ "Direction vers site Code::Blocks")** : 
 Code::Blocks permet le développement d'applications C et C++.
 
 Code::Blocks est un environnement de développement C++ gratuit et multi-plateforme (Linux et Windows), développé pour coller au mieux aux demandes des utilisateurs. Conçu autour d'une architecture de plugins, il est ainsi extensible et configurable très facilement ce qui lui permet d'évoluer très vite.
 
 
-## **[- MonoDevelop](https://www.monodevelop.com/)** :
+## **[- MonoDevelop](https://www.monodevelop.com/ "Direction vers site MonoDevelop")** :
  MonoDevelop permet le développement d'applications Mono (.NET) en C#.
 
 ## **D'autre Exemple d'IDE**
 
 
-- **[- SharpDevelop](https://github.com/icsharpcode)**
-- **[- KDevelop](https://www.kdevelop.org/)**
-- **[- Access](https://products.office.com/fr-fr/access)**
-- **[- C++ Builder](https://www.embarcadero.com/products/cbuilder/)**
-- **[- MATLAB](https://fr.mathworks.com/products/matlab.html)**
-- **[LabVIEW](http://www.ni.com/fr-fr/shop/labview.html)**
-- **[- Dev-C++](http://www.bloodshed.net/devcpp.html)**
-- **[- Qt Creator](https://www.qt.io/download)**
-- **[- XCode](https://developer.apple.com/) ( Apple Dev )**
-- **[- Lazarus](https://sourceforge.net/projects/lazarus/)**
-- **[- WinDev](https://www.pcsoft.fr/windev/index.html)**
-- **[- 4D](https://us.4d.com/)**
-- **[- Dreamweaver](https://www.adobe.com/fr/products/dreamweaver.html)**
-- **[- Zend Studio](https://www.zend.com/)**
+- **[- SharpDevelop](https://github.com/icsharpcode "Direction vers site SharpDevelop")**
+- **[- KDevelop](https://www.kdevelop.org/ "Direction vers site KDevelop")**
+- **[- Access](https://products.office.com/fr-fr/access "Direction vers site Acess")**
+- **[- C++ Builder](https://www.embarcadero.com/products/cbuilder/ "Direction vers site C++ Builder")**
+- **[- MATLAB](https://fr.mathworks.com/products/matlab.html "Direction vers site MATLAB")**
+- **[LabVIEW](http://www.ni.com/fr-fr/shop/labview.html "Direction vers site LabVIEW")**
+- **[- Dev-C++](http://www.bloodshed.net/devcpp.html "Direction vers site Dev-C++")**
+- **[- Qt Creator](https://www.qt.io/download "Direction vers site Qt Creator")**
+- **[- XCode](https://developer.apple.com/ "Direction vers site Dev Apple") ( Apple Dev )**
+- **[- Lazarus](https://sourceforge.net/projects/lazarus/ "Direction vers site Lazarus")**
+- **[- WinDev](https://www.pcsoft.fr/windev/index.html "Direction vers site WinDev")**
+- **[- 4D](https://us.4d.com/ "Direction vers site 4D")**
+- **[- Dreamweaver](https://www.adobe.com/fr/products/dreamweaver.html "Direction vers site Dreamweaver")**
+- **[- Zend Studio](https://www.zend.com/ "Direction vers site ZndStudio")**
 
 Chaque IDE fonctionne via l'environnement en question, il faut aussi prendre en compte la puissance via votre machine, votre environnement et le développement en question ( exemple : Scilab sera le plus adapté pour les applis Scientifique et Ingénieur, MonoDev pour le dev d'application en mono  .net et C# ( via linux ) Alors que SharpDev sera plus utile sur le dev d'application .net en C# et VB.net)
 
