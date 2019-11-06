@@ -105,35 +105,9 @@ Exemples de langage de programmation (les plus utilisés et communs) :
 ----------------------------------------------------------------------
 
 ***
-## Lexique
+## [Lexique](https://fr.wikipedia.org/wiki/Langage_de_programmation#Notions_courantes)
 
-Une instruction                                                        
-  : Good for making applesauce.                      
-
-Une variable
-  : Citrus!
-
-Une constante
-  : There's no "e" in tomatoe.
-
-Une expression littérale
-  : Citrus!
-
-Un type
-  : There's no "e" in tomatoe.
-
-Une structure de données
-  : Citrus!
-
-Une déclaration
-  : There's no "e" in tomatoe.
-
-Les procédures/fonctions/méthodes
-  : Citrus!
-
-Les modules
-  : There's no "e" in tomatoe.
-  
+Sur Wikipédia vous trouverez des explications claires et concises sur le vocabulaire général qu'il faut savoir :)
  
 
 
