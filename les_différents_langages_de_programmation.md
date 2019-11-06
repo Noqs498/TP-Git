@@ -5,19 +5,19 @@ Les Différents Languages de Programmation
 **Sommaire** :
 
 
-> Introduction
+> [Introduction](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#introduction)
 >
-> Composition d'un langage (*en règle générale*)
+> [Composition d'un langage (*en règle générale*)]
 >
-> Mise en place d'un langage
+> [Mise en place d'un langage]
 >
-> Utilisation des langages
+> [Utilisation des langages]
 >
-> Exemples de langages de programmation
+> [Exemples de langages de programmation]
 >
-> Utilité des langages dans la vie quotidienne
+> [Utilité des langages dans la vie quotidienne]
 >
-> Conclusion
+> [Conclusion](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#conclusion)
 >
 > [Lexique](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#lexique)
 >
