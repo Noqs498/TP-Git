@@ -40,7 +40,7 @@ Eclipse est distribué sous la forme de bundles, qui contiennent un certain nomb
 Enfin, Eclipse n'est pas limité au développement Java mais supporte aussi d'autres langages comme PHP (via PDT) et C/C++ (via CDT), etc.
 
 
-##**[- NetBeans](https://netbeans.org/)** :
+## **[- NetBeans](https://netbeans.org/)** :
  NetBeans permet le développement d'applications Java, PHP, C, C++ et Ruby.
 
 NetBeans, créé à l'initiative de Sun Microsystems (Noyau de Forte4J/SunOne), présente toutes les caractéristiques indispensables à un EDI de qualité, que ce soit pour développer en Java, Ruby, C/C++ ou même PHP.
@@ -58,13 +58,13 @@ NetBeans rajoute, à coté du support pour CVS et SubVersion, un support pour Cl
  Delphi est un EDI RAD utilisant le langage Pascal Objet pour réaliser indifféremment des applications Windows Win32 et .NET.
 
 
-##**[- Code::Blocks](http://www.codeblocks.org/)** : 
+## **[- Code::Blocks](http://www.codeblocks.org/)** : 
 Code::Blocks permet le développement d'applications C et C++.
 
 Code::Blocks est un environnement de développement C++ gratuit et multi-plateforme (Linux et Windows), développé pour coller au mieux aux demandes des utilisateurs. Conçu autour d'une architecture de plugins, il est ainsi extensible et configurable très facilement ce qui lui permet d'évoluer très vite.
 
 
-##**[- MonoDevelop](https://www.monodevelop.com/)** :
+## **[- MonoDevelop](https://www.monodevelop.com/)** :
  MonoDevelop permet le développement d'applications Mono (.NET) en C#.
 
 
