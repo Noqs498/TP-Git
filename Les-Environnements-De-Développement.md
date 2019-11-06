@@ -67,6 +67,8 @@ Code::Blocks est un environnement de développement C++ gratuit et multi-platefo
 ## **[- MonoDevelop](https://www.monodevelop.com/)** :
  MonoDevelop permet le développement d'applications Mono (.NET) en C#.
 
+## **D'autre Exemple d'IDE**
+
 
 - **[- SharpDevelop](https://github.com/icsharpcode)**
 - **[- KDevelop](https://www.kdevelop.org/)**
