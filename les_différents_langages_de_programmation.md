@@ -19,9 +19,9 @@ Les Différents Languages de Programmation
 >
 > Conclusion
 >
+> [Lexique](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#lexique)
+>
 > Sources
-
-
 
 
 Introduction
@@ -74,18 +74,45 @@ On retrouve dans chaque appareil, un ensemble d'instruction, permettant diverses
 Ensuite, nous retrouvons deux étapes très importantes : l'analyse lexicale et l'analyse syntaxique, qui vont analyser les éléments du langae et déterminer si oui ou non, le code est exécutable.
 
 
+
+Différentes utilisations des langages de programmation :
+----------------------------------------------------------
+
+
+
+
 ## Lexique
 
 ***
 
-apples
-  : Good for making applesauce.
+Une instruction                                                        
+  : Good for making applesauce.                      
 
-oranges
+Une variable
   : Citrus!
 
-tomatoes
+Une constante
   : There's no "e" in tomatoe.
+
+Une expression littérale
+  : Citrus!
+
+Un type
+  : There's no "e" in tomatoe.
+
+Une structure de données
+  : Citrus!
+
+Une déclaration
+  : There's no "e" in tomatoe.
+
+Les procédures/fonctions/méthodes
+  : Citrus!
+
+Les modules
+  : There's no "e" in tomatoe.
+  
+ 
 
 
 ![the end](https://github.com/Noqs498/TP-Git/blob/master/Image/gif_exemple.gif "The End")
