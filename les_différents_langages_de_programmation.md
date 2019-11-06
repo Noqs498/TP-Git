@@ -7,7 +7,7 @@ Les Différents Languages de Programmation
 
 > [Introduction](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#introduction)
 >
-> [Composition d'un langage (*en règle générale*)]
+> [Composition d'un langage (*en règle générale*)](ht)tps://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#composition-dun-langage-en-règle-générale)
 >
 > [Mise en place d'un langage]
 >
