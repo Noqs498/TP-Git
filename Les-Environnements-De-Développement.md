@@ -49,19 +49,19 @@ Code::Blocks est un environnement de développement C++ gratuit et multi-platefo
 **[- MonoDevelop](https://www.monodevelop.com/)** : MonoDevelop permet le développement d'applications Mono (.NET) en C#.
 
 
-**[- SharpDevelop](https://github.com/icsharpcode)
-**[- KDevelop](https://www.kdevelop.org/)
-**[- Access](../../../../TP-Git/Image/Rond.jpg)
-**- C++ Builder
-**- MATLAB
-**- LabVIEW
-**- Dev-C++
-**- Qt Creator
-**- XCode
-**- Lazarus
-**- WinDev
-**- 4D
-**- Dreamweaver
+**[- SharpDevelop](https://github.com/icsharpcode)**
+**[- KDevelop](https://www.kdevelop.org/)**
+**[- Access](../../../../TP-Git/Image/Rond.jpg)**
+**- C++ Builder**
+**- MATLAB**
+**- LabVIEW**
+**- Dev-C++**
+**- Qt Creator**
+**- XCode**
+**- Lazarus**
+**- WinDev**
+**- 4D**
+**- Dreamweaver**
 **- Zend Studio**
 
 Chaque IDE fonctionne via l'environnement en question, il faut aussi prendre en compte la puissance via votre machine, votre environnement et le développement en question ( exemple : Scilab sera le plus adapté pour les applis Scientifique et Ingénieur, MonoDev pour le dev d'application en mono  .net et C# ( via linux ) Alors que SharpDev sera plus utile sur le dev d'application .net en C# et VB.net)
