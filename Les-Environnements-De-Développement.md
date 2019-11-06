@@ -22,7 +22,7 @@ Il en existe plusieurs : ( voici quelque exemple )
 Cette nouvelle version de Visual Studio est dédié à la programmation d'applications web et Windows sur les frameworks 2.0, 3.0 et 3.5 ! Coté nouveautés: LINQ, le framework objet/relationnel Entities, un concepteur visuel pour WPF et DLINQ, un editeur XAML et un support intégré pour SQL Server Compact Edition, l'Intellisense JavaScript et bien d'autres.
 
 
-## **- Visual Studio Express Edition** : 
+## **[- Visual Studio Express Edition](https://visualstudio.microsoft.com/fr/vs/express/)** : 
 Visual Studio permet le développement d'applications Win32 en C et C++, ainsi que le développement d'applications .NET en C# et VB.NET.
 
 
