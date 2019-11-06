@@ -54,7 +54,7 @@ Comme exliqué précèdemment, un langage de programmation est quasi-identique �
      
 
 
-Voici un lien vers [un site intenet](http://foo.bar) expliquant précisemment la composition d'un langage de programmation.
+Voici un lien vers [un site intenet](https://fr.wikipedia.org/wiki/Langage_de_programmation#Utilisation) expliquant précisemment la composition d'un langage de programmation.
 
 
 Mise en place d'un langage de programmation :
