@@ -1,4 +1,5 @@
 # **Les communautés informatique**
+![En bref coder,pourquoi ?](Capture.JPG)](https://www.netflix.com/watch/81097620?trackId=14170289&tctx=0%2C1%2C70f93deb-b303-4067-b3a0-9ac1547586ab-357228763%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_35768016X3XX1573031684608%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_ROOT)
 
 **Comment ça marche** (CCM) est un site Web français créé en février 1999 initialement consacré à la vulgarisation informatique. Le site est édité par CCM Benchmark Group (c’est la marque commerciale de la société française à capitaux privés Howto Media Group), dont le fondateur est Jean-François Pillou, alias Jeff. Durant l'été 2010, CCM a levé 60 millions d'euros pour racheter l'Internaute. Ce nouveau conglomérat cumule 40 millions de pages et 20 millions de visiteurs uniques en novembre 2010.
 
@@ -38,3 +39,6 @@ Le but de ces votes est de mettre en avant les réponses de qualité, tout en r�
 Le site comptabilise plus de quatre millions de visiteurs uniques par mois.
 
 L'équipe de rédaction de Developpez.com, qui va des responsables de rubriques aux rédacteurs et modérateurs, est bénévole et comprend plus de 1 700 contributeurs. Les forums sont divisés en plus de 2 000 sous-forums qui abordent de très nombreuses technologies et langages de programmation.
+
+![En bref coder,pourquoi ?](Capture.JPG)](https://www.netflix.com/watch/81097620?trackId=14170289&tctx=0%2C1%2C70f93deb-b303-4067-b3a0-9ac1547586ab-357228763%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_35768016X3XX1573031684608%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_ROOT)
+
