@@ -40,6 +40,4 @@ Le site comptabilise plus de quatre millions de visiteurs uniques par mois.
 
 L'équipe de rédaction de Developpez.com, qui va des responsables de rubriques aux rédacteurs et modérateurs, est bénévole et comprend plus de 1 700 contributeurs. Les forums sont divisés en plus de 2 000 sous-forums qui abordent de très nombreuses technologies et langages de programmation.
 
-![En bref coder,pourquoi ?](Desktop/Cours/Git/TP-Git/Image/Capture.JPG/)](https://www.netflix.com/watch/81097620?trackId=14170289&tctx=0%2C1%2C70f93deb-b303-4067-b3a0-9ac1547586ab-357228763%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_35768016X3XX1573031684608%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_ROOT)
-
-
+![En bref coder,pourquoi ?](https://github.com/Noqs498/TP-Git/blob/master/Image/Capture.JPG/) 
