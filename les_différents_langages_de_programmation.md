@@ -19,9 +19,9 @@ Les Différents Languages de Programmation
 >
 > Conclusion
 >
+> [Lexique](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#lexique)
+>
 > Sources
-
-
 
 
 Introduction
@@ -39,7 +39,7 @@ Un langage de programmation sera lancé **par un traducteur automatique** : **co
 Composition d'un langage (*en règle générale*)
 -----------------------------------------------
 
-Comme exliqué précèdemment, un langage de programmation est quasi-identique à une langue naturelle, on retrouve ainsi :
+Comme expliqué précèdemment, un langage de programmation est quasi-identique à une langue naturelle, on retrouve ainsi :
 
  1. Des règles de syntaxe (*qui varient en fonction du langage utilisé*)
       * <>, etc... (pour l'HTML)
@@ -53,9 +53,66 @@ Comme exliqué précèdemment, un langage de programmation est quasi-identique �
       * {} (pour le java script)
      
 
-
 Voici un lien vers [un site intenet](https://fr.wikipedia.org/wiki/Langage_de_programmation#Utilisation) expliquant précisemment la composition d'un langage de programmation.
+
+    # J'ai bien raccourci cette partie, en effet, un lexique sera disponible plus loin donc ne paniquez pas si quelque chose vous embête :)
 
 
 Mise en place d'un langage de programmation :
 ----------------------------------------------
+
+Nous avons vu ce qu'était un langage globalement, mais comment faire pour mettre en application ce que l'on aura écrit ?
+
+Tout d'abord, l'utilisation de n'importe quel langage est rendue possible grâce à un traducteur automatique, qui prendra toute les informations pour pouvoir en faire quelque chose.
+Pour cela, nous retrouvons un compilateur et un interpréteur :
+ 
+ 1. Le compilateur traduira les lignes de codes dans son langage pour permettre son exécution.
+ 2. L'interpréteur exécutera ces lignes de codes.
+
+On retrouve dans chaque appareil, un ensemble d'instruction, permettant diverses choses, telles que le déplacement/la copie de données, switcher vers d'autres instruction, stockage de données, etc... Ces instructions sont définies sous forme de séquence de bit, c'est ce que l'on appelle le langage machine.
+
+Ensuite, nous retrouvons deux étapes très importantes : l'analyse lexicale et l'analyse syntaxique, qui vont analyser les éléments du langae et déterminer si oui ou non, le code est exécutable.
+
+
+
+Différentes utilisations des langages de programmation :
+----------------------------------------------------------
+
+
+
+
+## Lexique
+
+***
+
+Une instruction                                                        
+  : Good for making applesauce.                      
+
+Une variable
+  : Citrus!
+
+Une constante
+  : There's no "e" in tomatoe.
+
+Une expression littérale
+  : Citrus!
+
+Un type
+  : There's no "e" in tomatoe.
+
+Une structure de données
+  : Citrus!
+
+Une déclaration
+  : There's no "e" in tomatoe.
+
+Les procédures/fonctions/méthodes
+  : Citrus!
+
+Les modules
+  : There's no "e" in tomatoe.
+  
+ 
+
+
+![the end](https://github.com/Noqs498/TP-Git/blob/master/Image/gif_exemple.gif "The End")
