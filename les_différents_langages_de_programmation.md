@@ -20,10 +20,11 @@ Les Différents Languages de Programmation
 > [Lexique](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#lexique)
 >
 
-***
 
+***
 Introduction
 ------------
+***
 
 En Informatique, un langage de programmation est utilisé afin de **créer un algorithme et un programme chargé de l'appliquer**. Comme une langue naturelle, il est composé **d'un alphabet, de règles de syntaxes, d'un vocabulaire et de significations propres à lui-même**.
 
@@ -33,10 +34,12 @@ Un langage de programmation sera lancé **par un traducteur automatique** : **co
 
 
     # C'est une introduction en somme basique, mais elle permet la compréhension globale du sujet, ce qui sera utile pour la suite :)
-***
-   
+
+
+***   
 Composition d'un langage (*en règle générale*)
 -----------------------------------------------
+***
 
 Comme expliqué précèdemment, **un langage de programmation est quasi-identique à une langue naturelle**, on retrouve ainsi :
 
@@ -55,10 +58,12 @@ Comme expliqué précèdemment, **un langage de programmation est quasi-identiqu
 Voici un lien vers [un site intenet](https://fr.wikipedia.org/wiki/Langage_de_programmation#Utilisation) expliquant précisemment la composition d'un langage de programmation.
 
     # J'ai bien raccourci cette partie, en effet, un lexique sera disponible plus loin donc ne paniquez pas si quelque chose vous embête :)
-***
 
+
+***
 Mise en place d'un langage de programmation :
 ----------------------------------------------
+***
 
 Nous avons vu ce qu'était un langage globalement, mais **comment faire pour mettre en application ce que l'on aura écrit ?**
 
@@ -72,10 +77,11 @@ On retrouve dans chaque appareil, **un ensemble d'instruction**, permettant dive
 
 Ensuite, nous retrouvons deux étapes très importantes : **l'analyse lexicale et l'analyse syntaxique**, qui vont **analyser les éléments du langage et déterminer si oui ou non, le code est exécutable.**
 
-***
 
+***
 Utilisation des langages :
 ---------------------------
+***
 
 De nos jours, les langages de programmation sont omni-présents : Sites webs, applications, jeux, etc... On retrouve ainsi une multitudes de langages et d'utilisations.
 
@@ -98,11 +104,10 @@ De nos jours, les langages de programmation sont omni-présents : Sites webs, ap
 
      ## On pourrait en citer encore beaucoup d'autres, j'ai essayé de lister les principaux !
 
-***
 
+***
 Exemples de langage de programmation (les plus utilisés et communs) :
 ----------------------------------------------------------------------
-
 ***
 
 
