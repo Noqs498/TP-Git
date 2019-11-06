@@ -19,7 +19,6 @@ Les Différents Languages de Programmation
 >
 > [Lexique](https://github.com/Noqs498/TP-Git/blob/master/les_différents_langages_de_programmation.md#lexique)
 >
-> Sources
 
 ***
 
@@ -97,7 +96,7 @@ De nos jours, les langages de programmation sont omni-présents : Sites webs, ap
 7. La musique (Nyquist)
 
 
-     `On pourrait en citer encore beaucoup d'autres, j'ai essayé de lister les principaux.`
+     ## On pourrait en citer encore beaucoup d'autres, j'ai essayé de lister les principaux !
 
 ***
 
@@ -105,6 +104,11 @@ Exemples de langage de programmation (les plus utilisés et communs) :
 ----------------------------------------------------------------------
 
 ***
+
+
+Lexique :
+----------
+
 ## [Lexique](https://fr.wikipedia.org/wiki/Langage_de_programmation#Notions_courantes)
 
 Sur Wikipédia vous trouverez des explications claires et concises sur le vocabulaire général qu'il faut savoir :)
