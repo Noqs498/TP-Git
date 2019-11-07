@@ -14,10 +14,10 @@ synthétiser.
 
 ## **3 - Sujets à traiter**
 Voici la liste des différents sujets à traiter :
-- ● [Les différents métiers de l’informatique](https://github.com/Noqs498/TP-Git/blob/master/m%C3%A9tiers.md) [Corentin Goujon Cholet](https://github.com/corentingcholet)
-- ● [Les différents langages de programmation](https://github.com/Noqs498/TP-Git/blob/master/les_diff%C3%A9rents_langages_de_programmation.md) [Thomas Macé](https://github.com/Yukiho-Sensei)
-- ● [Les différents IDE, leurs particularités et objectifs](https://github.com/Noqs498/TP-Git/blob/master/Les-Environnements-De-D%C3%A9veloppement.md) [Corentin Houdet](https://github.com/Noqs498)
-- ● [Les communautés importantes](https://github.com/Noqs498/TP-Git/blob/master/les-communaut%C3%A9s.md) [Paul Leparc](https://github.com/jemappellepaul)
+- ● [Les différents métiers de l’informatique](https://github.com/Noqs498/TP-Git/blob/master/m%C3%A9tiers.md) ( [Corentin Goujon Cholet](https://github.com/corentingcholet) )
+- ● [Les différents langages de programmation](https://github.com/Noqs498/TP-Git/blob/master/les_diff%C3%A9rents_langages_de_programmation.md) ( [Thomas Macé](https://github.com/Yukiho-Sensei) )
+- ● [Les différents IDE, leurs particularités et objectifs](https://github.com/Noqs498/TP-Git/blob/master/Les-Environnements-De-D%C3%A9veloppement.md) ( [Corentin Houdet](https://github.com/Noqs498) )
+- ● [Les communautés importantes](https://github.com/Noqs498/TP-Git/blob/master/les-communaut%C3%A9s.md) ( [Paul Leparc](https://github.com/jemappellepaul) )
 - ● Les bonnes pratiques du code informatique ( A Effectuer )
 - ● La veille technologique : les avantages, inconvénients etc… ( A Effectuer )
 
