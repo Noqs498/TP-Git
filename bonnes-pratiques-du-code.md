@@ -3,16 +3,18 @@
 Lorsque l'on commence à coder, nous avons différentes règles de programmation à respecter. 
 
 ## 1. Règles de nommage :
-    * Choisir des noms **révélatueurs des intentions**.
-    * Eviter les possibilités d'**amalgames** et d'**ambiguités** :
-      * Info, Data sont des mots parasites vagues.
-      * argc, argv sont des identificateurs quasiment standardisés en C
-    * Choisir des **noms prononçables** : cela facilite le travail en équipe.
-    * Choisit des noms facilitants les **recherches** lexicales.
-    * Préférer les identificateurs en **anglais** afin d'avoir un code universels.
-    * Choisir un mot par **concept** : par exemple : get ou fecht.
+  * Choisir des noms **révélatueurs des intentions**.
+  * Eviter les possibilités d'**amalgames** et d'**ambiguités** :
+    * Info, Data sont des mots parasites vagues.
+    * argc, argv sont des identificateurs quasiment standardisés en C
+  * Choisir des **noms prononçables** : cela facilite le travail en équipe.
+  * Choisit des noms facilitants les **recherches** lexicales.
+  * Préférer les identificateurs en **anglais** afin d'avoir un code universels.
+  * Choisir un mot par **concept** : par exemple : get ou fecht.
 
-Nous pouvons également utiliser la notation **Hongroise** inventée par Charles Simony. Cette notation consiste par exemple pour une variable booléenne danger de l'écrire de cette manière : bDanger (b: pour boléenne et Danger: pour danger)
+Nous pouvons également utiliser la notation **Hongroise** inventée par Charles Simony. 
+
+Cette notation consiste par exemple pour une variable booléenne danger de l'écrire de cette manière : bDanger (b: pour boléenne et Danger: pour danger)
 Le préfixe est toujours écrit en minuscule puis la première lettre suivante en majuscule.
 
 ## 2. Règles des fonctions :
@@ -49,7 +51,7 @@ Le préfixe est toujours écrit en minuscule puis la première lettre suivante e
 
 Cependant, il existe aussi des conventions pour chaque langage. En effet, chaque langage a une convention d'écriture qui lui est dédiée. 
 
-Ces recommandations sont un ensemble de règles propres au langage.
+Ces recommandations sont un ensemble de règles propres au langage :
 
 1. JavaScript
 2. Python
@@ -57,7 +59,7 @@ Ces recommandations sont un ensemble de règles propres au langage.
 4. C++
 5. C#
 6. C
-7. PHP
+7. PHP 
 8. SHELL
 9. GO
 10. TypeScript
