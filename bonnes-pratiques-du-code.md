@@ -30,10 +30,41 @@ Le préfixe est toujours écrit en minuscule puis la première lettre suivante e
 
 4. ## Règles de mise en forme :
   * Les fichiers **courts** sont plus faciles à comprendre que les fichiers longs.
-  * Ajouter des **espacements horizontaux (lignes vides) entre les éléments d'un fichier
-  *
-  *
-  *
-  *
+  * Ajouter des **espacements horizontaux (lignes vides) entre les éléments d'un fichier.
+  * Les concepts étroitement **liés** doivent être **verticalement proches** pour faciliter la lecture et la compréhension (par exemple fonction appelante et fonction appelée).
+  * Une **seule** instruction par ligne.
+  * Un **nombre de colonnes** par ligne de code limité : 80 ou 120. On ne doit pas avoir à utiliser un ascenseur pour faire défiler le code horizontalement.
+  * Utilisation de l'**indentation** dans les structures de contrôle. Les commentaires associés doivent suivre aussi cette indentation
+  * Un **espacement uniforme** c'est-à-dire le nombre de caractères d'espacements à mettre :
+    * Avant ou après un opérateur comme "+" ou "=" ,
+    * Avant ou après une virgule dans une liste (d'arguments par exemple),
+    * Avant ou après une parenthèse ouvrante ou fermante (d'une liste d'arguments par exemple).
+  * Un **alignement horizontal** des déclarations : alignement des types, alignement des noms de variables
+    * int	nrows;
+    * int	nlines;
+    * double	epsilon;
+
+5. ## Règles des conventions :
+
+Cependant, il existe aussi des conventions pour chaque langage. En effet, chaque langage a une convention d'écriture qui lui est dédiée. 
+
+Ces recommandations sont un ensemble de règles propres au langage.
+
+1. JavaScript
+2. Python
+3. Java
+4. C++
+5. C#
+6. C
+7. PHP
+8. SHELL
+9. GO
+10. TypeScript
+11. Ruby
+12. Swift
+13. Rust
+14. HTML/CSS
+15. Kotlin
+
 L'objectif de ces règles est de : faciliter une compréhension universelle et simplifier la maintenance. Notamment lorsque c'est une autre personne qui reprends notre code.
 
