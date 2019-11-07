@@ -130,21 +130,21 @@ Il existe une multitude de langages de programmation, je vais citer les 15 princ
 
 Bien évidemment on peut les classer suivant leurs utilité et utilisations, on retrouvera ainsi :
 
-Nom           Domaine d'utilisation  
-------------- -----------------------
-JavaScript      Développement Web
-HTML/CSS        Développement Web
-PHP             Développement Web
-Python          Développement Web/IA (c'est l'un des langages que j'affectionne particulièrement)
-Java            Développement mobile
-Kotlin          Développement mobile
-C++/C#/C        Développement d'applications/jeux
-Ruby            Développement orienté objet (Je l'ai découvert récemment et je dois admettre que sa facilité d'utilisation est fascinante)
-Swift           Développement orienté objet (assez connu puisque il a été crée par Apple)
-Rust            Développement axé sur la sécurité (multi paradigme)
-TypeScript      Développement axé sur la sécurité des programmes (développé par Microsoft)
-Shell           Intérpréteur de commande (on peut considérer un code shell comme un simple script)
-Go              Développement multi-compilation (assez connu car développé par Google)
+| Nom           | Domaine d'utilisation  
+| ------------- | -----------------------
+| JavaScript    | Développement Web
+| HTML/CSS      | Développement Web
+| PHP           | Développement Web
+| Python        | Développement Web/IA (c'est l'un des langages que j'affectionne particulièrement)
+| Java          | Développement mobile
+| Kotlin        | Développement mobile
+| C++/C#/C      | Développement d'applications/jeux
+| Ruby          | Développement orienté objet (Je l'ai découvert récemment et je dois admettre que sa facilité d'utilisation est |fascinante)
+| Swift         | Développement orienté objet (assez connu puisque il a été crée par Apple)
+| Rust          | Développement axé sur la sécurité (multi paradigme)
+| TypeScript    | Développement axé sur la sécurité des programmes (développé par Microsoft)
+| Shell         | Intérpréteur de commande (on peut considérer un code shell comme un simple script)
+| Go            | Développement multi-compilation (assez connu car développé par Google)
 
 
 J'ai essayé de synthétiser mes connaissances actuelles (j'aurai bien évidemment pu développer plus pour chaque langage)
