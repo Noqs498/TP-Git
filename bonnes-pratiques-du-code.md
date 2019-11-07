@@ -72,5 +72,4 @@ Ces recommandations sont un ensemble de règles propres au langage :
 | Kotlin	| Loria / Camel Case	  |
 
 
-L'objectif de ces règles est de faciliter une compréhension universelle et simplifier la maintenance. Notamment lorsque c'est une autre personne qui reprends notre code.
-
+**L'objectif de ces règles est de faciliter une compréhension universelle et simplifier la maintenance. Notamment lorsque c'est une autre personne qui reprends notre code.**
