@@ -110,6 +110,24 @@ Exemples de langage de programmation (les plus utilisés et communs) :
 ----------------------------------------------------------------------
 ***
 
+Il existe une multitude de langages de programmation, je vais citer les 15 principaux que je connais et qui m'intéressent personnelement :
+
+1. JavaScript 
+2. Python
+3. Java
+4. C++
+5. C#
+6. C
+7. PHP
+8. SHELL
+9. GO   
+10. TypeScript
+11. Ruby
+12. Swift
+13. Rust
+14. HTML/CSS
+15. Kotlin
+
 
 Lexique :
 ----------
