@@ -53,21 +53,24 @@ Cependant, il existe aussi des conventions pour chaque langage. En effet, chaque
 
 Ces recommandations sont un ensemble de règles propres au langage :
 
-1. JavaScript
-2. Python
-3. Java
-4. C++
-5. C#
-6. C
-7. PHP 
-8. SHELL
-9. GO
-10. TypeScript
-11. Ruby
-12. Swift
-13. Rust
-14. HTML/CSS
-15. Kotlin
+| Noms :        | Convention d'écriture : |
+| ------------- | ----------------------- |
+| JavaScript	| Camel Case		  |
+| Python	| PEP / Snake Case	  |
+| Java		| Loria / Camel Case	  |
+| C++		| PHELMA / Camel Case	  |
+| C#		| PHELMA / Camel Case	  |
+| C		| PHELMA		  |
+| PHP		| PSR / Pascal Case	  |
+| SHELL		| Conventions générales	  |
+| GO		| utilitaire **gofmt**	  |
+| TypeScript	| Conventions générales	  |
+| Ruby		| Snake case		  |
+| Swift		| Camel Case		  |
+| Rust		| Conventions générales	  |
+| HTML/CSS	| Kebab ou Spinal Case	  | 
+| Kotlin	| Loria / Camel Case	  |
+
 
 L'objectif de ces règles est de faciliter une compréhension universelle et simplifier la maintenance. Notamment lorsque c'est une autre personne qui reprends notre code.
 
