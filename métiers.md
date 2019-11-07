@@ -127,3 +127,9 @@ Ainsi, si une entreprise se dote d'un ERP (progiciel de gestion intégré) comme
 Le métier de consultant est donc plus une évolution de carrière que quelque chose qu'on peut faire à la sortir des études. Car, c'est surtout son expertise et son expérience qu'on valorise en se faisant embaucher par une entreprise comme consultant.
 
 On trouve aussi des consultants "qualité" ou "documentation" dans les entreprises qui utilisent des systèmes informatiques. Ces personnes s'assurent alors que le système informatique répond à un certain nombre de norme (ISO par exemple) et qu'il est pérenne grâce à une documentation aboutie et exhaustive. 
+
+## **Technicien/ne de maintenance en informatique :**
+
+Remplacer la carte mère d'un ordinateur, installer un logiciel, comprendre pourquoi l'imprimante est bloquée… Le technicien de maintenance en informatique est un personnage clé dans la plupart des entreprises du tertiaire, toutes équipées en outils informatiques. Très technique, son activité le met au contact du matériel, des utilisateurs et des informaticiens.
+
+Dans le service informatique d'une entreprise ou dans une ESN (entreprise de services du numérique) il est chargé de la gestion et de la maintenance du matériel et des logiciels. Il forme aussi les utilisateurs, par exemple pour les aider à comprendre le fonctionnement d'un nouveau logiciel. De plus, il les conseille pour l'achat et l'installation technique du matériel. Les conditions de travail de ce technicien sont parfois difficiles (horaires lourds, déplacements nombreux, périodes d'astreinte, horaires décalés…), en particulier lorsqu'il travaille dans une ESN.
