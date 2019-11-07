@@ -148,7 +148,7 @@ Bien évidemment on peut les classer suivant leurs utilité et utilisations, on 
 
 
 J'ai essayé de synthétiser mes connaissances actuelles (j'aurai bien évidemment pu développer plus pour chaque langage)
-
+Bien évidemment, j'ai mis le domaine d'utilisation principal pour chaque langage (le java n'est pas uniquement du développement mobile).
 
 
 
