@@ -102,7 +102,7 @@ De nos jours, les langages de programmation sont omni-présents : Sites webs, ap
 7. La musique (Nyquist)
 
 
-     ## On pourrait en citer encore beaucoup d'autres, j'ai essayé de lister les principaux !
+     ##### On pourrait en citer encore beaucoup d'autres, j'ai essayé de lister les principaux !
 
 
 ***
