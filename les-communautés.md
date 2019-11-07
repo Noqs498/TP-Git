@@ -42,10 +42,62 @@ est une communauté francophone dédiée au développement informatique, lancée
 
 Le site comptabilise plus de quatre millions de visiteurs uniques par mois.
 
-L'équipe de rédaction de Developpez.com, qui va des responsables de rubriques aux rédacteurs et modérateurs, est bénévole et comprend plus de 1 700 contributeurs. Les forums sont divisés en plus de 2 000 sous-forums qui abordent de très nombreuses technologies et langages de programmation.
+L'équipe de rédaction de Developpez.com, qui va des responsables de rubriques aux rédacteurs et modérateurs, est bénévole et comprend plus de 1 700 contributeurs. Les forums sont divisés en plus de 2 000 sous-forums qui abordent de très nombreuses technologies et langages de programmation
 
-![En bref coder,pourquoi ?](https://github.com/Noqs498/TP-Git/blob/master/Image/Capture.JPG/ "En bref, Coder, pourquoi ?") 
+
+## [OpenClassrooms](https://openclassrooms.com/fr/dashboard) 
+est une école en ligne qui propose à ses membres des cours certifiants et des parcours débouchant sur un métier d'avenir, réalisés en interne, par des écoles, des universités, ou encore par des entreprises partenaires comme Microsoft ou IBM. Jusqu'en 2018, n'importe quel membre du site pouvait être auteur, via un outil nommé "Course Lab". De nombreux cours sont issus de la communauté, mais ne sont plus mis en avant. Initialement orientée autour de la programmation informatique, la plate-forme couvre depuis 2013 des thématiques plus larges tels que le marketing, l'entrepreneuriat et les sciences.
+
+Créé en 1999 sous le nom de Site du Zéro, il se forme essentiellement sur la base de contributions de bénévoles proposant des tutoriels vulgarisés avec un ton léger portant sur des sujets informatiques divers. À la suite du succès et de la fin des études des gérants, l'entreprise Simple IT, renommée ensuite OpenClassrooms, est fondée dans le but de pérenniser le site.
+
+En 2015, le site déclare compter 1 million de comptes depuis sa création, ainsi qu'un trafic de 2,5 millions de visiteurs uniques par mois. La même année, l'abonnement Premium est proposé gratuitement à tous les demandeurs d'emplois français, en partenariat avec Pôle emploi et le gouvernement.
+
+En 2016, Openclassrooms a commencé à mettre en place des parcours, une suite de cours et d'exercices pratiques appelés "projets", donnant suite pour certaines de ces formations, à un diplôme reconnu par l'État français. Un abonnement Premium Plus est requis pour pouvoir suivre un parcours.
+
+
+## [Épitech](https://www.epitech.eu/fr/)
+L'école pour l'informatique et les nouvelles technologies (EPITECH) est un organisme de formation reconnu par l’État créé en 1999 par Nicolas Sadirac formant des développeurs.
+
+L'école appartient au groupe IONIS (est une société commerciale française spécialisée dans le rachat et la création d’établissements dans le secteur économique de l'enseignement supérieur privé)et est membre de son pôle « Institute of Technology ».
+
+En février 2008, l'établissement annonce l'ouverture de 4 nouveaux campus : Lyon, Montpellier, Nancy et Nice.
+Au 1er septembre 2009, l'école est reconnue par l’État et peut ainsi accueillir des boursiers.
+En 2012, sous la direction de Cyril Pierre de Geyer, une nouvelle formation délivrant une maîtrise en administration des affaires (e-MBA), destinée aux managers ayant une formation technique, est ouverte.
+
+En 2013, un duo Epitech - HEC remporte le Startup Engineering Challenge.
+Le 7 août 2019 (date de la fermeture annuelle), l'école fait face à un vol de données par un ancien membre de l'équipe (sous le nom de Epitek Reveal), entrainant une fuite de données diffusées par la suite sur Internet et touchant l'ensemble des parties prenantes (élèves, direction, fournisseur...). L'école annonce qu'elle va déposer plainte
+
+
+## [Grafikart](https://www.grafikart.fr/)
+Pourquoi Grafikart.fr ?
+Le site a été développé par Jonathan BOYER pendant son année de DUT pour permettre de partager plus efficacement ses connaissances et aider les autres élèves. Au départ orienté vers le graphisme (d'où le nom) le contenu a ensuite suivi son évolution pour se tourner de plus en plus vers le développement Web.
+
+Lors de son apprentissage il a remarqué qu'il était très difficile de trouver du contenu de qualité en français concernant le développement Web. C'est pourquoi il souhaite aujourd'hui proposer au plus grand nombre du contenu pour permettre à tous d'évoluer et d'apprendre de nouvelles choses.
+
+Qui s'occupe du site ?
+Pour le moment il s'occupe seul de l'administration et de la gestion du site.
+
+
+## [Clubic](https://www.clubic.com/)
+est un site web français détenu par la société M6 entre 2008 et mars 2018, puis redevenu indépendant.
+Créé en 2000, ce site grand-public d'actualité high tech et numérique propose de découvrir l'actualité des nouvelles technologies, des tests de produits (smartphones, ordinateurs, tablettes, objets connectés, etc.) et services (logiciels, applications, etc.), des guides pratiques et comparatifs, une plateforme de téléchargement de logiciels (Windows, OSX et Linux) et d'applications (Android, iOS et Windows Phone) ainsi que d'un service communautaire (forum).
+
+Le site incorpore dans sa ligne éditoriale des articles issus des autres sites édités par Cyréalis (Jeuxvideo.fr, Mobinautes, NetEco), société rachetée par M6. Le comparateur de prix issu du portail Achetezfacile.com a lui aussi été incorporé à Clubic.
+Selon le site de statistiques Alexa, en septembre 2017, Clubic était le 1 988e site le plus visité au monde, et le 116e site français le plus visité. Il totalise 4,3 millions de visiteurs uniques chaque mois, avec 88 millions de pages vues par mois et 22,5 millions de visites mensuelles.
+Le 30 mars 2018, Clubic annonce sa séparation de M6 pour redevenir indépendant.
+
+
+## [GitHub] (https://github.com/) (exploité sous le nom de GitHub, Inc.)
+
+est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git. Ce site est développé en Ruby on Rails et Erlang par Chris Wanstrath, PJ Hyett et Tom Preston-Werner. GitHub propose des comptes professionnels payants, ainsi que des comptes gratuits pour les projets de logiciels libres. Le site assure également un contrôle d'accès et des fonctionnalités destinées à la collaboration comme le suivi des bugs, les demandes de fonctionnalités, la gestion de tâches et un wiki pour chaque projet.
+
+En avril 2016, GitHub a annoncé avoir dépassé les 14 millions d'utilisateurs et plus de 35 millions de dépôts de projets le plaçant comme le plus grand hébergeur de code source au monde.
+Le nom GitHub est composé du mot « git » faisant référence à un système de contrôle de version open-source et le mot « hub » faisant référence au réseau social bâti autour du système Git, mais aussi à une plate-forme de correspondance qui est appelée en anglais un « hub ».
+
+Octocat est la mascotte de la marque. Dessiné dans un style épuré inspiré par les arts populaires japonais (manga), et dessiné par Simon Oxley, également créateur du logo de Twitter. On voit une partie de son visage dans un déguisement lui donnant des oreilles de chat et des tentacules de céphalopode.
+Le 4 juin 2018, Satya Nadella, PDG de Microsoft, annonce que son entreprise Microsoft est dans un processus d'acquisition de GitHub pour 7,5 milliards de dollars.
+
+![En bref coder,pourquoi ?](https://github.com/Noqs498/TP-Git/blob/master/Image/Capture.JPG/ "En bref, Coder, pourquoi ?")
 
 Cliquez pour voir la vidéo [en bref coder, pourquoi ?](https://www.netflix.com/watch/81097620?trackId=14170289&tctx=0%2C1%2C70f93deb-b303-4067-b3a0-9ac1547586ab-357228763%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_35768016X3XX1573031684608%2Cced72d90-06c9-4248-83b8-5e32fcd38a94_ROOT)
-
 
