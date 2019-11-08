@@ -18,8 +18,8 @@ Voici la liste des différents sujets à traiter :
 - ● [Les différents langages de programmation](https://github.com/Noqs498/TP-Git/blob/master/les_diff%C3%A9rents_langages_de_programmation.md) ( [Thomas Macé](https://github.com/Yukiho-Sensei) )
 - ● [Les différents IDE, leurs particularités et objectifs](https://github.com/Noqs498/TP-Git/blob/master/Les-Environnements-De-D%C3%A9veloppement.md) ( [Corentin Houdet](https://github.com/Noqs498) )
 - ● [Les communautés importantes](https://github.com/Noqs498/TP-Git/blob/master/les-communaut%C3%A9s.md) ( [Paul Leparc](https://github.com/jemappellepaul) )
-- ● Les bonnes pratiques du code informatique ( A Effectuer )
-- ● La veille technologique : les avantages, inconvénients etc… ( A Effectuer )
+- ● [Les bonnes pratiques du code informatique](https://github.com/Noqs498/TP-Git/blob/master/bonnes-pratiques-du-code.md)  ( [Corentin Goujon Cholet](https://github.com/corentingcholet) )
+- ● [La veille technologique : les avantages, inconvénients etc…](https://github.com/Noqs498/TP-Git/blob/master/La%20veille%20technologique.md) ( [Paul Leparc](https://github.com/jemappellepaul) )
 
 - Formateur : Kevin Niel.
 - Ecole : Campus Académy Angers.
