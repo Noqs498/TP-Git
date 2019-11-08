@@ -40,4 +40,3 @@ Permet de créer une base de données de documents de référence accessible à 
 Le premier inconvénient est que la préservation des informations et des contenus confidentiels de chacun nécessite une gestion complexe de la sécurisation des information quii passe notamment par divers mots de passe de personnels.
 
 L'autre inconvénient est d'ordre humain : le choix des logiciels, la réticence de professeurs attachés au vieux système, risque d'incompétence en cas de piratage interne ou externe, inégalité en tre élèves ayant internet à domcile et les autres.
- 
